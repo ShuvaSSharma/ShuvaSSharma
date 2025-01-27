@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **JoBa, a perky yet subtle online herbal teashop.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
