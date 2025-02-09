@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvashis Sharma</h1>
 <h3 align="center">A passionate full-stack developer from New York City.</h3>
 
-- 🔭 I’m currently working on **JoBa, a perky yet subtle online herbal teashop.**
+-  I’m currently working on **JoBa, a perky yet subtle online herbal teashop 🍵.**
 
 <p align="left">
 </p>
