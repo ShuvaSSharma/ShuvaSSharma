@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvashis Sharma</h1>
 <h3 align="center">A passionate full-stack developer from New York City.</h3>
 
--  I’m currently working on **Jatri, a scheduling application that holds the plans for you vacation itinerary.**
+-  I’m currently working on **Jatri, a scheduling application that holds the plans for your vacation itinerary.**
 
 ---
 
